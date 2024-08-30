@@ -33,4 +33,4 @@ Model Comparison and Selection
 The models were compared based on their performance using the Root Mean Square Error (RMSE) metric. The best-performing model was selected for forecasting future revenues.
 
 ## Forecasting
-The selected model (ARIMA) was used to make future revenue predictions for the medical device companies. The forecasted results are visualized to show the expected trends within the next 8 quarters(2 years).
+The selected model (ARIMA) was used to make future revenue predictions for the medical device companies. The forecasted results are visualized to show the expected trends within the next 8 quarters (2 years).
